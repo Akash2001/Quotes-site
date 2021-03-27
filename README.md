@@ -17,4 +17,5 @@ Used local json file for marathi quotes and api for english quotes.
 <br><br>
 If you are a begineer then give a try!
 <br><br>
-Share your thoughts!
+Share your thoughts!<br>
+Mail me : akashngadhave@gmail.com 
