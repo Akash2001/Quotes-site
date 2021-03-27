@@ -1,7 +1,7 @@
 # Quotes-site
 #project-for begineers
 <br><br>
-Tech used
+Tech used<br>
 Html,css,js,bootstrap,ajax,json
 <br><br>
 Api used
