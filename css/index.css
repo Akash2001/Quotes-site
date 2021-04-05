@@ -17,6 +17,15 @@ body{
     color: white;
     font-weight: bold;
 }
+.list1{
+    background-color:burlywood;
+}
+.list2{
+    background-color: yellow;
+}
+.nav-link:hover,.list2 a:hover{
+    background-color: white;
+}
 /****Body image****/
 #background{
     margin: 0px 2% 0px 2%;
@@ -41,15 +50,6 @@ body{
     box-sizing: border-box;
     position: relative;
     bottom: 60px;
-}
-.list1{
-    background-color:burlywood;
-}
-.list2{
-    background-color: yellow;
-}
-.list3{
-    background-color: cyan;
 }
 /****Quotes are present inside #quote****/
 #next1, #next2, #next3{
@@ -126,6 +126,17 @@ footer{
     #quote div>div{
         margin-left: 70%;
     }
+    .list1{
+        background-color: transparent;
+        padding-left: 2px;
+    }
+    .list2{
+        background-color: transparent;
+        padding-left: 2px;
+    }
+    .navbar{
+        padding: 0px;
+    }
 }
 @media (min-width:668px) and (max-width:997px){
     #background{
@@ -133,6 +144,17 @@ footer{
     }
     #quote div>div{
         margin-left: 85%;
+    }
+    .list1{
+        background-color: transparent;
+        padding-left: 2px;
+    }
+    .list2{
+        background-color: transparent;
+        padding-left: 2px;
+    }
+    .navbar{
+        padding: 0px;
     }
 }
 @media (min-width:998px) and (max-width:1199px){
