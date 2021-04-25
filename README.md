@@ -1,21 +1,19 @@
 # Quotes-site
-#project-for begineers
-<br><br>
-Tech used<br>
+# Project for begineers<br>
+# Tech used<br>
 Html,css,js,bootstrap,ajax,json
 <br><br>
-Api used
+# Api used
 https://type.fit/api/quotes
 <br><br>
-Site url
+# Site url
 https://akash2001.github.io/Quotes-site/
 <br><br>
-Discription<br>
-Just a one page site.<br> 
-Used an array json from the above given api.<br> 
-Used local json file for marathi quotes and api for english quotes.
+# Discription<br>
+* Just a one page site.<br> 
+* Used an array json from the above given api.<br> 
+* Used local json file for marathi quotes and api for english quotes.<br>
+* If you are a begineer then give a try!
 <br><br>
-If you are a begineer then give a try!
-<br><br>
-Share your thoughts!<br>
+# Share your thoughts!<br>
 Mail me : akashngadhave@gmail.com 
